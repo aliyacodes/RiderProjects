@@ -6,18 +6,15 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            string characterName = "Tom";
-            int characterAge; // declaring variable
-            characterAge = 25;
+            string phrase = "Giraffe Academy";
+            char grade = 'A';
+            int age = 30;
+            double gpa = 3.3; /* float, double, decimal */
+            bool isMale = false;
             
-            Console.WriteLine("There once was a man named " + characterName);
-            Console.WriteLine("He was " + characterAge + " years old");
-
-            characterName = "Mike";
-            Console.WriteLine("He really liked the name " + characterName);
-            Console.WriteLine("But didn't like being " + characterAge);
+            Console.WriteLine(30); //constant
             
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
