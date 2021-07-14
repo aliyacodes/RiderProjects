@@ -6,9 +6,9 @@ namespace Giraffe
     {
         static void Main(string[] args)
         {
-            string phrase = "Giraffe Academy";
-
-            Console.WriteLine( phrase.Substring(8, 3) );
+            int num = 6;
+            num++;
+            Console.WriteLine(num);
             
             Console.ReadLine(); 
         }
