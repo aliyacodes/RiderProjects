@@ -1,0 +1,16 @@
+/home/eros/RiderProjects/MadLibs/MadLibs/bin/Debug/net5.0/MadLibs
+/home/eros/RiderProjects/MadLibs/MadLibs/bin/Debug/net5.0/MadLibs.deps.json
+/home/eros/RiderProjects/MadLibs/MadLibs/bin/Debug/net5.0/MadLibs.runtimeconfig.json
+/home/eros/RiderProjects/MadLibs/MadLibs/bin/Debug/net5.0/MadLibs.runtimeconfig.dev.json
+/home/eros/RiderProjects/MadLibs/MadLibs/bin/Debug/net5.0/MadLibs.dll
+/home/eros/RiderProjects/MadLibs/MadLibs/bin/Debug/net5.0/ref/MadLibs.dll
+/home/eros/RiderProjects/MadLibs/MadLibs/bin/Debug/net5.0/MadLibs.pdb
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/MadLibs.csprojAssemblyReference.cache
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/MadLibs.AssemblyInfoInputs.cache
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/MadLibs.AssemblyInfo.cs
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/MadLibs.dll
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/ref/MadLibs.dll
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/MadLibs.pdb
+/home/eros/RiderProjects/MadLibs/MadLibs/obj/Debug/net5.0/MadLibs.genruntimeconfig.cache
