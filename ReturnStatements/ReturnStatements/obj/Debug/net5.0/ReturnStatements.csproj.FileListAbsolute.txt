@@ -1,0 +1,16 @@
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/bin/Debug/net5.0/ReturnStatements
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/bin/Debug/net5.0/ReturnStatements.deps.json
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/bin/Debug/net5.0/ReturnStatements.runtimeconfig.json
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/bin/Debug/net5.0/ReturnStatements.runtimeconfig.dev.json
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/bin/Debug/net5.0/ReturnStatements.dll
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/bin/Debug/net5.0/ref/ReturnStatements.dll
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/bin/Debug/net5.0/ReturnStatements.pdb
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ReturnStatements.csprojAssemblyReference.cache
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ReturnStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ReturnStatements.AssemblyInfoInputs.cache
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ReturnStatements.AssemblyInfo.cs
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ReturnStatements.csproj.CoreCompileInputs.cache
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ReturnStatements.dll
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ref/ReturnStatements.dll
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ReturnStatements.pdb
+/home/eros/RiderProjects/ReturnStatements/ReturnStatements/obj/Debug/net5.0/ReturnStatements.genruntimeconfig.cache
